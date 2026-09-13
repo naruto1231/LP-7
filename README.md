@@ -33,6 +33,8 @@ HTML と CSS のみで構成された静的サイトです。Bootstrap をベー
 
 GitHub Pages でホスティングしています。
 
+公開URL: https://naruto1231.github.io/LP-7/
+
 ## ライセンス
 
 特に指定なし
